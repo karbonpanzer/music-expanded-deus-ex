@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<ModMetaData>
+    <name>Music Expanded: Deus Ex</name>
+    <description>Steel-blue conspiracies and rain-slick alleys. Pulsing synths, shadowed intrigue, and late-night operations. Deus Ex’s iconic score brings moody exploration and high-tension combat to your colony via the Music Expanded Framework.</description>
+    <author>karbonpanzer</author>
+    <packageId>musicexpanded.deusex</packageId>
+    	<supportedVersions>
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+    <loadAfter>
+        <li>zal.mef</li>
+        <li>VanillaExpanded.VEE</li>
+    </loadAfter>
+    	<modDependenciesByVersion>
+		<v1.3>
+			<li>
+				<packageId>musicexpanded.framework</packageId>
+				<displayName>Music Expanded Framework</displayName>
+				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+			</li>
+		</v1.3>
+		<v1.4>
+			<li>
+				<packageId>musicexpanded.framework</packageId>
+				<displayName>Music Expanded Framework</displayName>
+				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+			</li>
+		</v1.4>
+		<v1.5>
+			<li>
+				<packageId>zal.mef</packageId>
+				<displayName>Music Expanded Framework</displayName>
+				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+			</li>
+		</v1.5>
+		<v1.6>
+			<li>
+				<packageId>zal.mef</packageId>
+				<displayName>Music Expanded Framework</displayName>
+				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+			</li>
+		</v1.6>
+	</modDependenciesByVersion>
+</ModMetaData>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Ambient Tracks (No Cue) -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_002</defName>
+		<label>Deus Ex – Intro Sequence</label>
+		<clipPath>MusicExpanded/DeusEx/1-02. Intro Sequence</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_003</defName>
+		<label>Deus Ex – Majestic 12 Labs</label>
+		<clipPath>MusicExpanded/DeusEx/1-03. Majestic 12 Labs</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_004</defName>
+		<label>Deus Ex – Battery Park</label>
+		<clipPath>MusicExpanded/DeusEx/1-04. Battery Park</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_005</defName>
+		<label>Deus Ex – Hong Kong Club 1</label>
+		<clipPath>MusicExpanded/DeusEx/1-05. Hong Kong Club 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_006</defName>
+		<label>Deus Ex – Naval Base</label>
+		<clipPath>MusicExpanded/DeusEx/1-06. Naval Base</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_007</defName>
+		<label>Deus Ex – NYC Streets</label>
+		<clipPath>MusicExpanded/DeusEx/1-07. NYC Streets</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_008</defName>
+		<label>Deus Ex – Enemy Within</label>
+		<clipPath>MusicExpanded/DeusEx/1-08. Enemy Within</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_009</defName>
+		<label>Deus Ex – Paris Club 1</label>
+		<clipPath>MusicExpanded/DeusEx/1-09. Paris Club 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_010</defName>
+		<label>Deus Ex – Training Room</label>
+		<clipPath>MusicExpanded/DeusEx/1-10. Training Room</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_011</defName>
+		<label>Deus Ex – Liberty Island</label>
+		<clipPath>MusicExpanded/DeusEx/1-11. Liberty Island</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_012</defName>
+		<label>Deus Ex – Conspiravision</label>
+		<clipPath>MusicExpanded/DeusEx/1-12. Conspiravision</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_013</defName>
+		<label>Deus Ex – Area 51</label>
+		<clipPath>MusicExpanded/DeusEx/1-13. Area 51</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_014</defName>
+		<label>Deus Ex – NYC Bar</label>
+		<clipPath>MusicExpanded/DeusEx/1-14. NYC Bar</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_015</defName>
+		<label>Deus Ex – Ocean Lab</label>
+		<clipPath>MusicExpanded/DeusEx/1-15. Ocean Lab</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_016</defName>
+		<label>Deus Ex – Lebedev's Airfield</label>
+		<clipPath>MusicExpanded/DeusEx/1-16. Lebedev's Airfield</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_017</defName>
+		<label>Deus Ex – Hong Kong Club 2</label>
+		<clipPath>MusicExpanded/DeusEx/1-17. Hong Kong Club 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_018</defName>
+		<label>Deus Ex – The Nothing</label>
+		<clipPath>MusicExpanded/DeusEx/1-18. The Nothing</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_019</defName>
+		<label>Deus Ex – UNATCO</label>
+		<clipPath>MusicExpanded/DeusEx/1-19. UNATCO</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_020</defName>
+		<label>Deus Ex – Desolation</label>
+		<clipPath>MusicExpanded/DeusEx/1-20. Desolation</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_021</defName>
+		<label>Deus Ex – Paris Streets</label>
+		<clipPath>MusicExpanded/DeusEx/1-21. Paris Streets</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_022</defName>
+		<label>Deus Ex – Begin The End</label>
+		<clipPath>MusicExpanded/DeusEx/1-22. Begin The End</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_023</defName>
+		<label>Deus Ex – Hong Kong Helipad</label>
+		<clipPath>MusicExpanded/DeusEx/1-23. Hong Kong Helipad</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_024</defName>
+		<label>Deus Ex – The Synapse</label>
+		<clipPath>MusicExpanded/DeusEx/1-24. The Synapse</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_025</defName>
+		<label>Deus Ex – Versalife</label>
+		<clipPath>MusicExpanded/DeusEx/1-25. Versalife</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_026</defName>
+		<label>Deus Ex – Paris Club 2</label>
+		<clipPath>MusicExpanded/DeusEx/1-26. Paris Club 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_027</defName>
+		<label>Deus Ex – DuClare Chateau</label>
+		<clipPath>MusicExpanded/DeusEx/1-27. DuClare Chateau</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_028</defName>
+		<label>Deus Ex – Return To NYC</label>
+		<clipPath>MusicExpanded/DeusEx/1-28. Return To NYC</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_029</defName>
+		<label>Deus Ex – Ocean Lab Complex</label>
+		<clipPath>MusicExpanded/DeusEx/1-29. Ocean Lab Complex</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_030</defName>
+		<label>Deus Ex – Vandenberg</label>
+		<clipPath>MusicExpanded/DeusEx/1-30. Vandenberg</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_031</defName>
+		<label>Deus Ex – Ending 1</label>
+		<clipPath>MusicExpanded/DeusEx/1-31. Ending 1</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_032</defName>
+		<label>Deus Ex – Ending 2</label>
+		<clipPath>MusicExpanded/DeusEx/1-32. Ending 2</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_034</defName>
+		<label>Deus Ex – The Illuminati</label>
+		<clipPath>MusicExpanded/DeusEx/1-34. The Illuminati</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_035</defName>
+		<label>Deus Ex – Deus Ex Club</label>
+		<clipPath>MusicExpanded/DeusEx/1-35. Deus Ex Club</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_036</defName>
+		<label>Deus Ex – Area 51 (Hidden Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-01. Area 51 (Hidden Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_037</defName>
+		<label>Deus Ex – UNATCO (Ambient Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-02. UNATCO (Ambient Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_038</defName>
+		<label>Deus Ex – Enemy Within (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-03. Enemy Within (Extended Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_039</defName>
+		<label>Deus Ex – Paris Streets (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-04. Paris Streets (Extended Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_040</defName>
+		<label>Deus Ex – Hong Kong Helipad (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-05. Hong Kong Helipad (Action Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_041</defName>
+		<label>Deus Ex – Ocean Lab Complex (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-06. Ocean Lab Complex (Extended Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_042</defName>
+		<label>Deus Ex – Begin The End (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-07. Begin The End (Extended Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_043</defName>
+		<label>Deus Ex – DuClare Chateau (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-08. DuClare Chateau (Action Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_044</defName>
+		<label>Deus Ex – UNATCO (Alternative Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-09. UNATCO (Alternative Mix)</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<!-- MainMenu and Credits Tracks -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_001</defName>
+		<label>Deus Ex – Deus Ex Title</label>
+		<clipPath>MusicExpanded/DeusEx/1-01. Deus Ex Title</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_033</defName>
+		<label>Deus Ex – Ending 3</label>
+		<clipPath>MusicExpanded/DeusEx/1-33. Ending 3</clipPath>
+		<cue>Credits</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- Battle Tracks (BattleSmall, BattleMedium, BattleLarge, BattleLegendary) -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_038_B1</defName>
+		<label>Deus Ex – Enemy Within (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-03. Enemy Within (Extended Mix)</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_039_B1</defName>
+		<label>Deus Ex – Paris Streets (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-04. Paris Streets (Extended Mix)</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_041_B2</defName>
+		<label>Deus Ex – Ocean Lab Complex (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-06. Ocean Lab Complex (Extended Mix)</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_043_B2</defName>
+		<label>Deus Ex – DuClare Chateau (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-08. DuClare Chateau (Action Mix)</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_040_B3</defName>
+		<label>Deus Ex – Hong Kong Helipad (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-05. Hong Kong Helipad (Action Mix)</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_042_B4</defName>
+		<label>Deus Ex – Begin The End (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-07. Begin The End (Extended Mix)</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+
+	<!-- Custom Cues (Base Game) -->
+	<!-- (none) -->
+
+	<!-- Custom Cues (DLC) — append these to your Deus Ex track.xml -->
+
+	<!-- Biotech -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_BIO_001</defName>
+		<label>Deus Ex – Desolation</label>
+		<clipPath>MusicExpanded/DeusEx/1-20. Desolation</clipPath>
+		<cue>Custom</cue>
+		<cueData>NoxiousHaze</cueData>
+	</MusicExpanded.TrackDef>
+
+	<!-- Anomaly -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_001</defName>
+		<label>Deus Ex – Hong Kong Helipad (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-05. Hong Kong Helipad (Action Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>SmallShamblerSwarm</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_002</defName>
+		<label>Deus Ex – Conspiravision</label>
+		<clipPath>MusicExpanded/DeusEx/1-12. Conspiravision</clipPath>
+		<cue>Custom</cue>
+		<cueData>PsychicRitualSiege</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_003</defName>
+		<label>Deus Ex – Paris Streets (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-04. Paris Streets (Extended Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>ShamblerAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_004</defName>
+		<label>Deus Ex – Paris Club 1</label>
+		<clipPath>MusicExpanded/DeusEx/1-09. Paris Club 1</clipPath>
+		<cue>Custom</cue>
+		<cueData>CreepJoinerJoin</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_005</defName>
+		<label>Deus Ex – Enemy Within (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-03. Enemy Within (Extended Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>ShamblerSwarm</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_006</defName>
+		<label>Deus Ex – Paris Streets</label>
+		<clipPath>MusicExpanded/DeusEx/1-21. Paris Streets</clipPath>
+		<cue>Custom</cue>
+		<cueData>SightstealerArrival</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_007</defName>
+		<label>Deus Ex – Ocean Lab</label>
+		<clipPath>MusicExpanded/DeusEx/1-15. Ocean Lab</clipPath>
+		<cue>Custom</cue>
+		<cueData>FleshbeastAttack</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_008</defName>
+		<label>Deus Ex – DuClare Chateau (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-08. DuClare Chateau (Action Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>ChimeraAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_009</defName>
+		<label>Deus Ex – Deus Ex Club</label>
+		<clipPath>MusicExpanded/DeusEx/1-35. Deus Ex Club</clipPath>
+		<cue>Custom</cue>
+		<cueData>HateChanters</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_010</defName>
+		<label>Deus Ex – Begin The End (Extended Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-07. Begin The End (Extended Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>GorehulkAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_011</defName>
+		<label>Deus Ex – Area 51 (Hidden Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-01. Area 51 (Hidden Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>DevourerAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_012</defName>
+		<label>Deus Ex – NYC Streets</label>
+		<clipPath>MusicExpanded/DeusEx/1-07. NYC Streets</clipPath>
+		<cue>Custom</cue>
+		<cueData>SightstealerSwarm</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_013</defName>
+		<label>Deus Ex – Ocean Lab Complex</label>
+		<clipPath>MusicExpanded/DeusEx/1-29. Ocean Lab Complex</clipPath>
+		<cue>Custom</cue>
+		<cueData>DevourerWaterAssault</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_014</defName>
+		<label>Deus Ex – NYC Bar</label>
+		<clipPath>MusicExpanded/DeusEx/1-14. NYC Bar</clipPath>
+		<cue>Custom</cue>
+		<cueData>ShamblerSwarmAnimals</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_015</defName>
+		<label>Deus Ex – The Nothing</label>
+		<clipPath>MusicExpanded/DeusEx/1-18. The Nothing</clipPath>
+		<cue>Custom</cue>
+		<cueData>GhoulAttack</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_016</defName>
+		<label>Deus Ex – The Synapse</label>
+		<clipPath>MusicExpanded/DeusEx/1-24. The Synapse</clipPath>
+		<cue>Custom</cue>
+		<cueData>MetalHorrorImplantation</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_017</defName>
+		<label>Deus Ex – Ending 1</label>
+		<clipPath>MusicExpanded/DeusEx/1-31. Ending 1</clipPath>
+		<cue>Custom</cue>
+		<cueData>Revenant</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_018</defName>
+		<label>Deus Ex – The Illuminati</label>
+		<clipPath>MusicExpanded/DeusEx/1-34. The Illuminati</clipPath>
+		<cue>Custom</cue>
+		<cueData>TwistedObelisk</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_019</defName>
+		<label>Deus Ex – Versalife</label>
+		<clipPath>MusicExpanded/DeusEx/1-25. Versalife</clipPath>
+		<cue>Custom</cue>
+		<cueData>CorruptedObelisk</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_020</defName>
+		<label>Deus Ex – Area 51</label>
+		<clipPath>MusicExpanded/DeusEx/1-13. Area 51</clipPath>
+		<cue>Custom</cue>
+		<cueData>WarpedObelisk</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_021</defName>
+		<label>Deus Ex – DuClare Chateau</label>
+		<clipPath>MusicExpanded/DeusEx/1-27. DuClare Chateau</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoUnnaturalCorpse</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_022</defName>
+		<label>Deus Ex – The Illuminati</label>
+		<clipPath>MusicExpanded/DeusEx/1-34. The Illuminati</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoGoldenCube</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_023</defName>
+		<label>Deus Ex – Ending 1</label>
+		<clipPath>MusicExpanded/DeusEx/1-31. Ending 1</clipPath>
+		<cue>Custom</cue>
+		<cueData>MysteriousCargoRevenantSpine</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_024</defName>
+		<label>Deus Ex – Liberty Island</label>
+		<clipPath>MusicExpanded/DeusEx/1-11. Liberty Island</clipPath>
+		<cue>Custom</cue>
+		<cueData>FrenziedAnimals</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_025</defName>
+		<label>Deus Ex – Area 51</label>
+		<clipPath>MusicExpanded/DeusEx/1-13. Area 51</clipPath>
+		<cue>Custom</cue>
+		<cueData>PitGate</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_026</defName>
+		<label>Deus Ex – Ocean Lab Complex</label>
+		<clipPath>MusicExpanded/DeusEx/1-29. Ocean Lab Complex</clipPath>
+		<cue>Custom</cue>
+		<cueData>FleshmassHeart</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ANO_027</defName>
+		<label>Deus Ex – Begin The End</label>
+		<clipPath>MusicExpanded/DeusEx/1-22. Begin The End</clipPath>
+		<cue>Custom</cue>
+		<cueData>Nociosphere</cueData>
+	</MusicExpanded.TrackDef>
+
+	<!-- Odyssey -->
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ODY_001</defName>
+		<label>Deus Ex – Versalife</label>
+		<clipPath>MusicExpanded/DeusEx/1-25. Versalife</clipPath>
+		<cue>Custom</cue>
+		<cueData>BoomshroomSprout</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ODY_002</defName>
+		<label>Deus Ex – Vandenberg</label>
+		<clipPath>MusicExpanded/DeusEx/1-30. Vandenberg</clipPath>
+		<cue>Custom</cue>
+		<cueData>OrbitalDebris</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ODY_003</defName>
+		<label>Deus Ex – Hong Kong Helipad (Action Mix)</label>
+		<clipPath>MusicExpanded/DeusEx/2-05. Hong Kong Helipad (Action Mix)</clipPath>
+		<cue>Custom</cue>
+		<cueData>Gravship</cueData>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<defName>ME_DX_ODY_004</defName>
+		<label>Deus Ex – Return To NYC</label>
+		<clipPath>MusicExpanded/DeusEx/1-28. Return To NYC</clipPath>
+		<cue>Custom</cue>
+		<cueData>PassengerShuttle</cueData>
+	</MusicExpanded.TrackDef>
+</Defs>
+
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<MusicExpanded.ThemeDef>
+		<defName>ME_DX</defName>
+		<label>Music Expanded: Deus Ex</label>
+		<description>Steel-blue conspiracies and rain-slick alleys. Pulsing synths, shadowed intrigue, and late-night operations—Deus Ex’s iconic score brings moody exploration and high-tension combat to your colony via the Music Expanded Framework.</description>
+		<iconPath>UI/Icons/DeusEx</iconPath>
+		<tracks>
+			<!-- Ambient Tracks (No Cue) -->
+			<li>ME_DX_002</li>
+			<li>ME_DX_003</li>
+			<li>ME_DX_004</li>
+			<li>ME_DX_005</li>
+			<li>ME_DX_006</li>
+			<li>ME_DX_007</li>
+			<li>ME_DX_008</li>
+			<li>ME_DX_009</li>
+			<li>ME_DX_010</li>
+			<li>ME_DX_011</li>
+			<li>ME_DX_012</li>
+			<li>ME_DX_013</li>
+			<li>ME_DX_014</li>
+			<li>ME_DX_015</li>
+			<li>ME_DX_016</li>
+			<li>ME_DX_017</li>
+			<li>ME_DX_018</li>
+			<li>ME_DX_019</li>
+			<li>ME_DX_020</li>
+			<li>ME_DX_021</li>
+			<li>ME_DX_022</li>
+			<li>ME_DX_023</li>
+			<li>ME_DX_024</li>
+			<li>ME_DX_025</li>
+			<li>ME_DX_026</li>
+			<li>ME_DX_027</li>
+			<li>ME_DX_028</li>
+			<li>ME_DX_029</li>
+			<li>ME_DX_030</li>
+			<li>ME_DX_031</li>
+			<li>ME_DX_032</li>
+			<li>ME_DX_034</li>
+			<li>ME_DX_035</li>
+			<li>ME_DX_036</li>
+			<li>ME_DX_037</li>
+			<li>ME_DX_038</li>
+			<li>ME_DX_039</li>
+			<li>ME_DX_040</li>
+			<li>ME_DX_041</li>
+			<li>ME_DX_042</li>
+			<li>ME_DX_043</li>
+			<li>ME_DX_044</li>
+			<!-- MainMenu and Credits Tracks -->
+			<li>ME_DX_001</li>
+			<li>ME_DX_033</li>
+			<!-- Battle Tracks (BattleSmall, BattleMedium, BattleLarge, BattleLegendary) -->
+			<li>ME_DX_038_B1</li>
+			<li>ME_DX_039_B1</li>
+			<li>ME_DX_041_B2</li>
+			<li>ME_DX_043_B2</li>
+			<li>ME_DX_040_B3</li>
+			<li>ME_DX_042_B4</li>
+			<!-- Custom Cues (DLC) -->
+			<!-- Biotech -->
+			<li>ME_DX_BIO_001</li>
+			<!-- Anomaly -->
+			<li>ME_DX_ANO_001</li>
+			<li>ME_DX_ANO_002</li>
+			<li>ME_DX_ANO_003</li>
+			<li>ME_DX_ANO_004</li>
+			<li>ME_DX_ANO_005</li>
+			<li>ME_DX_ANO_006</li>
+			<li>ME_DX_ANO_007</li>
+			<li>ME_DX_ANO_008</li>
+			<li>ME_DX_ANO_009</li>
+			<li>ME_DX_ANO_010</li>
+			<li>ME_DX_ANO_011</li>
+			<li>ME_DX_ANO_012</li>
+			<li>ME_DX_ANO_013</li>
+			<li>ME_DX_ANO_014</li>
+			<li>ME_DX_ANO_015</li>
+			<li>ME_DX_ANO_016</li>
+			<li>ME_DX_ANO_017</li>
+			<li>ME_DX_ANO_018</li>
+			<li>ME_DX_ANO_019</li>
+			<li>ME_DX_ANO_020</li>
+			<li>ME_DX_ANO_021</li>
+			<li>ME_DX_ANO_022</li>
+			<li>ME_DX_ANO_023</li>
+			<li>ME_DX_ANO_024</li>
+			<li>ME_DX_ANO_025</li>
+			<li>ME_DX_ANO_026</li>
+			<li>ME_DX_ANO_027</li>
+			<!-- Odyssey -->
+			<li>ME_DX_ODY_001</li>
+			<li>ME_DX_ODY_002</li>
+			<li>ME_DX_ODY_003</li>
+			<li>ME_DX_ODY_004</li>
+		</tracks>
+	</MusicExpanded.ThemeDef>
+</Defs>
